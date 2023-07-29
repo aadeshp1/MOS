@@ -5,7 +5,7 @@ This is a project involving the design and implementation of a multiprogramming 
 
 There are 2 phases. Phase 1 & Phase 2
 
-Phase 1 is written in python and Phase 2 in C++.
+Phase 1 and Phase 2 both are written in C++.
 
 There are no errors in Phase 1 while there are 7 errors in Phase 2.
 
